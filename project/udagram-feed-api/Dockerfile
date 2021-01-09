@@ -15,4 +15,4 @@ COPY . .
 # Bind the port that the image will run on
 EXPOSE 8080
 
-CMD ["npm", "run", "dev"]
+CMD ["npm", "run", "prod"]
